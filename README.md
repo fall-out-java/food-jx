@@ -2,6 +2,20 @@
 
 从抖音美食视频中自动提取文字 → 生成结构化食谱教程。
 
+## 界面预览
+
+![视频链接页](screenshots/screenshot_urls.png)
+*视频链接标签页 — 管理抖音链接*
+
+![设置页](screenshots/screenshot_settings.png)
+*设置标签页 — API Key、语音识别、下载选项*
+
+![提示词页](screenshots/screenshot_prompts.png)
+*提示词标签页 — 自定义 LLM 提示词*
+
+![处理页](screenshots/screenshot_process.png)
+*处理标签页 — 进度与日志*
+
 ## 快速开始
 
 ```bash
