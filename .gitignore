@@ -1,0 +1,29 @@
+# 临时音频文件
+temp/
+
+# 输出文档
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+
+# Whisper 模型缓存
+~/.cache/whisper/
+
+# 构建产物
+dist/
+build/
+*.spec
+
+# 配置文件（含 API Key）
+config/
+
+# Cookies
+cookies*.txt
+
+# IDE
+.idea/

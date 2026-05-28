@@ -1,0 +1,7 @@
+# 每行一个抖音视频链接，以 # 开头的行会被忽略
+# 示例：
+# https://www.douyin.com/video/7350327598423272767
+# https://v.douyin.com/i6AbcDE/
+
+https://v.douyin.com/-3RIEx0Zic4/
+https://v.douyin.com/_b3p4SgoqaA/
