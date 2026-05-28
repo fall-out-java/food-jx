@@ -1,0 +1,18 @@
+{
+  "api_key": "YOUR_DASHSCOPE_API_KEY_HERE",
+  "llm_model": "qwen-plus",
+  "transcription_mode": "audio",
+  "asr_engine": "whisper",
+  "whisper_model": "small",
+  "aliyun_asr_app_key": "YOUR_ALIYUN_ASR_APPKEY_HERE",
+  "aliyun_asr_access_key_id": "YOUR_ALIYUN_ACCESS_KEY_ID_HERE",
+  "aliyun_asr_access_key_secret": "YOUR_ALIYUN_ACCESS_KEY_SECRET_HERE",
+  "aliyun_asr_dialect": "",
+  "download_mode": "playwright",
+  "use_llm": true,
+  "keep_audio": false,
+  "output_dir": "",
+  "cookies_file": "",
+  "system_prompt": "",
+  "user_template": ""
+}
